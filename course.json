@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-F04",
+  "repository": "icb-f04-checking-digital-credential-what-verification-proves",
+  "repository_url": "https://github.com/ICoBC/icb-f04-checking-digital-credential-what-verification-proves",
+  "title": "Checking a Digital Credential: What Verification Proves",
+  "subtitle": "For recruiters, admissions officers and anyone who receives credentials.",
+  "version": "1.0.0",
+  "series": "Foundation",
+  "skill": "Standards and interoperability",
+  "level": "1",
+  "level_name": "Contribute",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-STND-L1-A",
+  "badge_name": "Checking a Digital Credential: What Verification Proves (Ability, L1)",
+  "hours": "2",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-f04/",
+  "parts": [
+    "About this course",
+    "Why verifiers matter",
+    "Running a verification",
+    "Reading the result",
+    "Beyond the signature: issuer and assessment quality",
+    "Decisions proportionate to the stakes",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 21
+}
